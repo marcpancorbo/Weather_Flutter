@@ -35,6 +35,8 @@ The main service class, which allows you to set the lat|long of the cities you w
 
 ## View
 
+<img src="test.gif" width="400">
+
 ### [Main List](https://github.com/marcpancorbo/Weather_Flutter/blob/master/lib/main.dart)
 
 This is the main view of the application. It includes a stateful widget generating the list of weathers with the possibility to pull the table to refresh the information.
